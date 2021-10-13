@@ -7,7 +7,7 @@ package studentcourse;
 
 /**
  *
- * @author VOIZN
+ * @author VOIZN aka Aran
  */
 public class StudentCourse {
 
