@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author VOIZN
+ * @author VOIZN aka Aran
  */
 public class CourseRegister extends javax.swing.JFrame {
 
